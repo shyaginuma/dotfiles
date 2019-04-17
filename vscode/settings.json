@@ -1,3 +1,5 @@
 {
-    "workbench.colorTheme": "Iceberg"
+    "workbench.colorTheme": "Iceberg",
+    "extensions.ignoreRecommendations": false,
+    "workbench.iconTheme": "material-icon-theme"
 }
