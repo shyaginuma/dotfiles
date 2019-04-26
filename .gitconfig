@@ -5,3 +5,5 @@
     pullm = pull origin master
     br = branch
     co = checkout
+    llog = log --oneline
+    unstage = reset HEAD
